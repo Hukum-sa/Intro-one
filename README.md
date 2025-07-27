@@ -15,4 +15,5 @@ It was made in  April 2025, uploaded with finishing on 25 July 2025
 This project was inspired by a tutorial by Shery.js on YouTube.
 All 3D effects and animations are learned from his amazing content.
 
-Thanks to Shery.js on YouTube for the guidance.
+Thanks to [Shery.js on YouTube](https://www.youtube.com/@Sheryians) for the guidance.
+
